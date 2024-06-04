@@ -1,6 +1,6 @@
 [Project]
-FileName=Proyecto 1.dev
-Name=Proyecto 2
+FileName=Ejercicio10.dev
+Name=Proyecto 1
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=..\Ejercicio6\ej6.cpp
+FileName=Ejercicio10.cpp
 CompileCpp=1
 Folder=
 Compile=1
