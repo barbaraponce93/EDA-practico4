@@ -109,7 +109,7 @@ int main() {
         cout << "1. Ingresar Deportista\n";
         cout << "2. Calcular y mostrar categorias\n";
         cout << "3. Mostrar todos los pesos cargados\n";
-        cout << "4. Mostrar peso maximo de cada categoría\n";
+        cout << "4. Mostrar peso maximo de cada categoria\n";
         cout << "5. Mostrar peso maximo general\n";
         cout << "0. Salir\n";
         cout << "Seleccione una opcion: ";
